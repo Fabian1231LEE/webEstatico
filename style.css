@@ -1,0 +1,16 @@
+body{
+	background-color: violet;
+	font-family:  Arial,Verdana, cursive;
+	color: black;
+}
+
+h1{
+	font-family: 'Sansita Swashed', cursive;
+	color: darkblue;
+	text-shadow: 2px 2px pink;
+	text-transform: uppercase;
+}
+.P1{
+	font-family: 'Sansita Swashed', cursive;
+	color: black;
+}

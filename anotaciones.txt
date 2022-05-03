@@ -1,0 +1,9 @@
+conexion
+		//mysql_connect(PARADIGMA ESTRUCTURADO)
+			//mysqli_connect(Estructurado con  OO)
+			//PDO (OO)
+
+
+prueba
+			<!-- method existe: GET(chismoso) POST(discreto) -->
+		<!-- Por default el metodo es GET -->
